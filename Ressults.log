@@ -1,0 +1,36 @@
+RandomAgent vs RandomAgent 
+White Wins : 239  ( RandomAgent ) 
+Black Wins : 261  ( RandomAgent ) 
+Draw       : 0 
+
+White Wins : 248  ( RandomAgent ) 
+Black Wins : 252  ( RandomAgent ) 
+Draw       : 0 
+-------------------------------------- 
+MCTS Agent [ SE:10 EX:10] vs RandomAgent 
+White Wins : 500  ( MCTS Agent [ SE:10 EX:10] ) 
+Black Wins : 0  ( RandomAgent ) 
+Draw       : 0 
+
+White Wins : 0  ( RandomAgent ) 
+Black Wins : 500  ( MCTS Agent [ SE:10 EX:10] ) 
+Draw       : 0 
+-------------------------------------- 
+MCTS Agent [ SE:32 EX:32] vs RandomAgent 
+White Wins : 499  ( MCTS Agent [ SE:32 EX:32] ) 
+Black Wins : 1  ( RandomAgent ) 
+Draw       : 0 
+
+White Wins : 2  ( RandomAgent ) 
+Black Wins : 498  ( MCTS Agent [ SE:32 EX:32] ) 
+Draw       : 0 
+-------------------------------------- 
+MCTS Agent [ SE:10 EX:10] vs MCTS Agent [ SE:32 EX:32] 
+White Wins : 213  ( MCTS Agent [ SE:10 EX:10] ) 
+Black Wins : 287  ( MCTS Agent [ SE:32 EX:32] ) 
+Draw       : 0 
+
+White Wins : 246  ( MCTS Agent [ SE:32 EX:32] ) 
+Black Wins : 254  ( MCTS Agent [ SE:10 EX:10] ) 
+Draw       : 0 
+-------------------------------------- 
